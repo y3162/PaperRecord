@@ -4,3 +4,5 @@
     - [リスト](ML/list.md)
 - SR(話者認識)
     - [リスト](SR/list.md)
+- VA(音声匿名化)
+    - [リスト](VA/list.md)
