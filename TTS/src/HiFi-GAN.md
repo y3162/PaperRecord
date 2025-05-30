@@ -1,4 +1,4 @@
-[戻る](VPC2022.md)
+[戻る](../list.md)
 # MRF(Multi-Receptive Field Fusion)
 ![](HiFi-GAN-G.png)
 
