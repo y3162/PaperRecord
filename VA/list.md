@@ -3,3 +3,4 @@
 |-|-|-|
 | 2025/05/14 | [VPC2020](src/VPC2020.md) | [link](https://arxiv.org/pdf/2109.00648) |
 | 2025/05/22 | [VPC2022](src/VPC2022.md) | [link](https://arxiv.org/pdf/2407.11516) |
+| 2025/05/30 | [SALT](src/SALT.md) | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10389719) | 
