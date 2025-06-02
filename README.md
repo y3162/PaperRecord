@@ -7,6 +7,9 @@
 - ASR(音声認識)
   - [リスト](ASR/list.md)
 - TTS(音声合成)
-  - [リスト](TSS/list.md)
+  - [リスト](TTS/list.md)
 - VA(音声匿名化)
   - [リスト](VA/list.md)
+
+# 本記録
+- [リスト](BOOK/list.md)
